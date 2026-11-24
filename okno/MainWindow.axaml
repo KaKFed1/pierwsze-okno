@@ -7,5 +7,5 @@ Width="500" Height="300"
         x:Class="okno.MainWindow"
       Title="Moje pierwsze okno"
 WindowStartupLocation="CenterScreen"
-    Welcome to Avalonia!
+  <TextBlock Text="Czesc, to moje pierwsze okno!" />
 </Window>
