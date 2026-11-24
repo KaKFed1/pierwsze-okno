@@ -4,6 +4,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
-        Title="okno">
+      Title="Moje pierwsze okno"
+git add okno/MainWindow.axaml
+git commit -m "ustaw wlasny tytul okna"
     Welcome to Avalonia!
 </Window>
